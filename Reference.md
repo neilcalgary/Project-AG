@@ -15,5 +15,5 @@ https://www.amazon.ca/AC-Infinity-AC-Powered-Playstation-Component/dp/B01MZ6VNII
 Xiaomi Mijia HHCC Flower Care Mi Flora Monitor Digital Plants Detector Grass Soil Water Light Smart Tester Sensor International
 https://www.aliexpress.com/item/4000515364902.html
 
-###t-Bone's project
+### T-Bone's project
 https://thingspeak.com/channels/613181
