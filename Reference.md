@@ -17,3 +17,7 @@ https://www.aliexpress.com/item/4000515364902.html
 
 ### T-Bone's project
 https://thingspeak.com/channels/613181
+
+### Sensors and accessiories Seller on AliExpress
+EieChip (https://eiechip.aliexpress.com/store/735678?spm=2114.12010617.pcShopHead_11482763.0)
+https://eiechip.aliexpress.com/store/group/Sensor/735678_517084890.html?spm=2114.12010612.8148358.5.71132dcb3Gj9Ft&origin=n&categoryId=523&SortType=bestmatch_sort&g=y
