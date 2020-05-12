@@ -21,3 +21,6 @@ https://thingspeak.com/channels/613181
 ### Sensors and accessories Seller on AliExpress
 EieChip (https://eiechip.aliexpress.com/store/735678?spm=2114.12010617.pcShopHead_11482763.0)
 https://eiechip.aliexpress.com/store/group/Sensor/735678_517084890.html?spm=2114.12010612.8148358.5.71132dcb3Gj9Ft&origin=n&categoryId=523&SortType=bestmatch_sort&g=y
+
+### Container and lids
+https://www.uline.ca/BL_8150/Plastic-Pails-And-Lids?pricode=DD203&AdKeyword=5%20gallon&AdMatchtype=p&gclid=EAIaIQobChMI3sfR0u2u6QIVEj2tBh1o1wNYEAEYASAAEgLYcvD_BwE&gclsrc=aw.ds
