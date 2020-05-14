@@ -16,7 +16,7 @@ try:
                                   port = config["port"],
                                   database = config["database"])
     cursor = connection.cursor()
-    address1 = "C4:7C:8D:62:38:7D"
+    address1 = "C4:7C:xx:xx:xx:xx"
     poller1 = MiFloraPoller(address1)
 
     temp = poller1.parameter_value("temperature")
