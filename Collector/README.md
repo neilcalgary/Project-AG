@@ -9,6 +9,11 @@ C4:7C:xx:xx:xx:xx Flower care
 
 copy the address to collect.py 19 replace default address
 
+You need to edit crontab to decide how frequently you need to collect data, battery will cost for every pull
+this is pull data every hour
+sudo vim /etc/crontab 
+0 * * * * pi  python3 /home/pi/garden/collect.py #add this line to the end of the file
+
 Table structure
 
 CREATE TABLE greenhouse.outdoor_1
