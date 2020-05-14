@@ -2,9 +2,9 @@
 import psycopg2
 import time
 import json
-from pprint import pprint
 from miflora.miflora_poller import MiFloraPoller, MI_CONDUCTIVITY, MI_MOISTURE, MI_LIGHT, MI_TEMPERATURE, MI_BATTERY
 
+# Load database config
 with open('/home/pi/garden/config.json') as f:
     config = json.load(f)
 
