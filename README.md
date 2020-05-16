@@ -2,7 +2,7 @@
 
 Another smart garden project
 
-The goal of Project AG is to build a smart gardening system that is simple and fun. The system monitors the soil and environment including moisture, temperature and humidity; and it automatically waters the plants and controls the air temperature based on knowledge data.
+The goal of Project AG is to build a smart gardening system that is simple and fun. The system monitors the soil and environment including moisture, temperature and humidity; and it automatically waters the plants and controls the air temperature based on known and collected data.
 
 ## Project Overview
 系统包括
